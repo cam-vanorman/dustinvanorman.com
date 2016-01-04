@@ -8,13 +8,19 @@
     },
     "main.css": {
       "files": [
-        "styles/main.less"
+        "styles/main.scss"
+      ],
+      "main": true
+    },
+    "style.css": {
+      "files": [
+        "styles/style.scss"
       ],
       "main": true
     },
     "editor-style.css": {
       "files": [
-        "styles/editor-style.less"
+        "styles/editor-style.scss"
       ]
     },
     "jquery.js": {
@@ -22,9 +28,21 @@
     },
     "modernizr.js": {
       "bower": ["modernizr"]
+    },
+    "jquery.parallax.js": {
+      "bower": ["jquery.parallax"]
+    },
+    "Chart.js": {
+      "bower": ["Chart.js"]
+    },
+    "jquery.scrollTo.js": {
+      "bower": ["jquery.scrollTo"]
+    },
+    "jquery.localScroll.js": {
+      "bower": ["jquery.localScroll"]
     }
   },
   "config": {
-    "devUrl": "http://example.dev"
+    "devUrl": "http://localhost:8888/vanormandesign/vanormandesign.com"
   }
 }
