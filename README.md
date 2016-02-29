@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Sage](https://roots.io/sage/)
 [![Build Status](https://travis-ci.org/roots/sage.svg)](https://travis-ci.org/roots/sage)
 [![devDependency Status](https://david-dm.org/roots/sage/dev-status.svg)](https://david-dm.org/roots/sage#info=devDependencies)
@@ -119,3 +120,6 @@ Keep track of development and community news.
 * Follow [@rootswp on Twitter](https://twitter.com/rootswp)
 * Read and subscribe to the [Roots Blog](https://roots.io/blog/)
 * Subscribe to the [Roots Newsletter](https://roots.io/subscribe/)
+=======
+# dustinvanorman.com
+>>>>>>> 25d775d93b9712d42733d1f826804a7ea7cd3394
