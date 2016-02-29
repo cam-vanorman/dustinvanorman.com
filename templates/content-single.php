@@ -3,7 +3,7 @@
 		<section class="entry-content">
 			<div class="container">
 				<div class="row">
-					<h1 class="entry-title"><?php the_title(); ?></h1><hr class="small">
+					<h1 class=" text-center entry-title"><?php the_title(); ?></h1><hr class="small">
 				</div>
 				<div class="row">            
 					<div class="col-lg-12">
