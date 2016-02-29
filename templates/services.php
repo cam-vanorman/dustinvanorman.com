@@ -3,10 +3,10 @@
  * Template Name: Services Template
  */
 ?>
-    <section class="parralax-section bg-cameron-falling"></section>
+    <!-- <section class="parralax-section bg-cameron-falling"></section> -->
     <!-- Services -->
     <section id="services" class="services bg-egg-white">
-        <div class="container">
+        <!-- <div class="container">
             <div class="row text-center">
                 <div class="col-lg-10 col-lg-offset-1">
                     <h2>How do I manage projects?</h2>
@@ -56,13 +56,13 @@
                                 
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- /.row (nested) -->
-                </div>
+                <!-- </div> -->
                 <!-- /.col-lg-10 -->
-            </div>
+            <!-- </div> -->
             <!-- /.row -->
-        </div>
+        <!-- </div> -->
         <!-- /.container -->
     </section>
 

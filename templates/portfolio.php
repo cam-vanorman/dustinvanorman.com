@@ -6,7 +6,7 @@
 
 	<!-- Portfolio Grid Section -->
 	<section id="portfolio" class="container-fluid portfolio bg-egg-white">
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-lg-12 text-center">
 				<h2>Portfolio</h2>
 				<hr class="small border-coal">
@@ -89,7 +89,7 @@
 				</a>
 			</div>
 			
-		</div>
+		</div> -->
 		<!-- ./row -->
 	</section>
 
