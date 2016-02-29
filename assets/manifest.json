@@ -43,6 +43,6 @@
     }
   },
   "config": {
-    "devUrl": "http://localhost:8888/vanormandesign/vanormandesign.com"
+    // "devUrl": "http://localhost:8888/vanormandesign/vanormandesign.com"
   }
 }
