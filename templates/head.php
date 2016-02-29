@@ -18,16 +18,16 @@
     <meta property="og:title" content="Cameron Van Orman — Front-end Developer"/>
     <meta property="og:url" content="http://vanorman.design/"/>
     <meta property="og:site_name" content="Van Orman Design"/>
-    <meta property="og:image" content="http://vanorman.design/wp-content/themes/vanorman2015/dist/images/cameron-2013.jpg"/>
+    <meta property="og:image" content="//vanorman.design/wp-content/themes/vanorman2015/dist/images/cameron-2013.jpg"/>
 
-  	<link rel="author" href="http://www.linkedin.com/pub/cameron-van-orman/45/b38/891" title="Cameron Van Orman"/>
+  	<link rel="author" href="//www.linkedin.com/pub/cameron-van-orman/45/b38/891" title="Cameron Van Orman"/>
 
     <link rel="alternate" type="application/rss+xml" title="<?= get_bloginfo('name'); ?> Feed" href="<?= esc_url(get_feed_link()); ?>">
     <?php wp_head(); ?>
     
     <!-- Fonts -->
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700" async>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css' async>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700" async>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css' async>
 
     <!-- Theme -->
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" async>
