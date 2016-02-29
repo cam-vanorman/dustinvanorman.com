@@ -11,7 +11,7 @@
 						</ul> -->
 						<!-- <hr class="small"> -->
 					
-						<!-- <p class="text-center">Made with <i title="love" class="btl bt-heart bt-fw"></i> &amp; <i title="coffee" class="btl bt-mug bt-fw"></i> in Seattle, WA.</p> -->
+						<p class="text-center">Made with brotherly love <i title="love" class="love btl bt-heart bt-fw"></i> &amp; <i title="coffee" class="btl bt-mug bt-fw"></i> by <a href="//vanorman.design">Cameron Van Orman</a> in Seattle, WA.</p>
 						<p class="text-center">Copyright <?= date('Y'); ?> &copy; Dustin Van Orman</p>
 						<?php dynamic_sidebar('sidebar-footer'); ?>
 					</div>

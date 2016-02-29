@@ -12,7 +12,7 @@
 			</div>
 			<div class="row">            
 				<div class="col-lg-12">
-					<img class="mar-b-20 mar-t-20 img-center img-responsive img-circle img-thumbnail" src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/dvanorman-homepage.jpg" alt="Dustin Van Orman image" title="Dustin Van Orman" />
+					<img class="mar-b-20 mar-t-20 img-center img-responsive img-thumbnail" src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/dvanorman-homepage.jpg" alt="Dustin Van Orman image" title="Dustin Van Orman" />
 				</div>
 				<!-- <div class="col-lg-10 col-lg-offset-1 text-vertical-center">
 					<p class="lead">A native of Washington state and a highly motivated individual, Cameron Van&nbsp;Orman is a talented web developer currently developing websites in Seattle, WA.</p>

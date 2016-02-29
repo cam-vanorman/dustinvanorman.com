@@ -1,15 +1,20 @@
 <?php while (have_posts()) : the_post(); ?>
 	<article <?php post_class(); ?>>
-		<section class="entry-content bg-coal">
+		<section class="entry-content">
 			<div class="container">
 				<div class="row">
-					<h1 class="text-center entry-title"><?php the_title(); ?></h1><hr class="bg-light-green small">
+					<h1 class="entry-title"><?php the_title(); ?></h1><hr class="small">
 				</div>
 				<div class="row">            
 					<div class="col-lg-12">
-						<img class="mar-b-20 mar-t-20 img-center img-responsive img-circle img-thumbnail" src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/cameron-2013.jpg" alt="Cameron Van Orman" title="Cameron Van Orman" />
+						<?php
+							// check if the post has a Post Thumbnail assigned to it.
+							if (has_post_thumbnail()) {
+								the_post_thumbnail();
+							}
+						?>
 					</div>
-					<div class="col-lg-10 col-lg-offset-1 text-vertical-center">
+					<div class="col-lg-10 col-lg-offset-1">
 						<?php the_content(); ?>
 					</div>
 				</div>
