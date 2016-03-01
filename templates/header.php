@@ -1,6 +1,6 @@
 <?php use Roots\Sage\Nav\NavWalker; ?>
 
-  <header class="banner navbar navbar-custom navbar-fixed-top" role="banner">
+  <header class="banner navbar navbar-custom" role="banner">
     <div class="container">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
