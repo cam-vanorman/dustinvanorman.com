@@ -23,6 +23,24 @@
 					</div>
 				</a>
 			</div>
+			<div class="col-sm-4 portfolio-item">
+				<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal1">
+					<div class="caption">
+						<div class="caption-content">
+							<p class="lead">language aptitude</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-sm-4 portfolio-item">
+				<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal1">
+					<div class="caption">
+						<div class="caption-content">
+							<p class="lead">working and long-term memory</p>
+						</div>
+					</div>
+				</a>
+			</div>
 			
 		</div>
 		<!-- ./row -->
