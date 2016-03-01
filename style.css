@@ -423,9 +423,6 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     .portfolio {
         padding-bottom: 0;
     }
-    .about {
-        color: #fff;
-    }
 
     /* Services */
     .service-item {
