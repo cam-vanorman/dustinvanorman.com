@@ -582,9 +582,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     .call-to-action {
 
     }
-    .copyright-2015 {
-        border-top: 2px solid #66BBFF;
-    }
+
     .copyright-2015 .panel {
         border-radius: 0px;
         border: none;
