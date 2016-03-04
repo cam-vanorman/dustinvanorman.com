@@ -4,7 +4,7 @@
  */
 ?>
     <!-- Services -->
-    <section id="services" class="services">
+    <section id="services" class="services bg-egg-white">
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-10 col-lg-offset-1">
@@ -32,7 +32,7 @@
             <!-- /.row -->
         </div>
     </section>
-    <section class="research bg-egg-white">
+    <section class="research">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
