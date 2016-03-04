@@ -157,28 +157,28 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         transition: all .3s ease-in-out;
     }
     .btn-dark {
-        color: #fff;
-        background-color: #444;
-        border-bottom: 2px solid #ffaa66;
+        color: #444;
+        background-color: #f6f6f6;
+        border-bottom: 2px solid #444;
     }
     .btn-dark:hover,
     .btn-dark:focus,
     .btn-dark:active {
         color: #fff;
-        background-color: #000;
+        background-color: #333;
         transition: all .3s ease-in-out;
     }
     .btn-light {
-        color: #333;
+        color: #444;
         background-color: #fff;
-        border-bottom: 2px solid #ffaa66;
+        border-bottom: 2px solid #444;
     }
     .btn-light:hover,
     .btn-light:focus,
     .btn-light:active {
-        color: #333;
-        background-color: #ddd;
-        transition: all .3s ease-in-out;
+        color: #444;
+        background-color: #d3d3d3;
+        transition: color .3s ease-in-out;
     }
 
     /* Social icons */
@@ -186,45 +186,45 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         display: inline-block;
         width: 50px;
         height: 50px;
-        border: 2px solid #ffaa66;
+        border: 2px solid #444;
         border-radius: 100%;
         text-align: center;
         font-size: 20px;
         line-height: 45px;
-        color: #fff;
-        background-color: #333;
+        color: #444;
+        background-color: #fff;
         -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
         box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
     }
     .btn-outline {
         margin-top: 15px;
-        border: solid 2px #ffaa66;
+        border: solid 2px #444;
         font-size: 20px;
-        color: #ffaa66;
-        background: #333;
+        color: #444;
+        background: #fff;
         transition: all .3s ease-in-out;
     }
     .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
-      border: solid 2px #bbff66;
-      color: #bbff66;
-      background: #444;
+      border: solid 2px #444;
+      color: #444;
+      background: #fff;
       transition: all .3s ease-in-out;
     }
     .callout .btn-social {
         -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
         box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
-        color: #fff;
-        background-color: #444;
-        border-color: #ffaa66;
+        color: #444;
+        background-color: #fff;
+        border-color: #444;
     }
     .callout .btn-social:hover {
-        background-color: #000;
-        border-color: #ffaa66;
+        background-color: #fff;
+        border-color: #444;
     }
 
     .img-thumbnail {
-        border: none;
-        border: 4px solid #bbff66;
+        border-top: none;
+        border: 1px solid #d3d3d3;
         box-shadow: 0 5px 10px rgba(0,0,0,.2);
         padding: 0;
         background-color: rgba(255,255,255, .7)
