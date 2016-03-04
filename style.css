@@ -226,6 +226,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     }
 
     .img-thumbnail {
+        border-radius: 0;
         border-top: none;
         border: 1px solid #d3d3d3;
         box-shadow: 0 5px 10px rgba(0,0,0,.2);
