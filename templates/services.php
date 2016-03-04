@@ -3,70 +3,61 @@
  * Template Name: Services Template
  */
 ?>
-    <!-- <section class="parralax-section bg-cameron-falling"></section> -->
     <!-- Services -->
     <section id="services" class="services bg-egg-white">
-        <!-- <div class="container">
+        <div class="container">
             <div class="row text-center">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <h2>How do I manage projects?</h2>
+                    <h2>Research Interests</h2>
                     <hr class="small border-coal">
                     <div class="row">
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-sm-6">
                             <div class="service-item">
-                                <i class="fab fab-linux bt-4x"></i>
-                                <h4>
-                                    <strong>Linux</strong>
-                                </h4>
-                                <p>Virtual machines with VirtualBox</p>
-                                <a href="https://www.virtualbox.org/" class="btn btn-dark" target="_blank">Learn More</i></a>
+                                <h4><strong>Specific</strong></h4>
+                                <p>Learning optimization; language aptitude; working and long-term memory; model of memory; factors contributing to memory retention and decay; phonological, segmental and phrasal acquisition, etc.</p>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-sm-6">
                             <div class="service-item">
-                                
-                                <i class="fab fab-wordpress-alt bt-4x"></i>
-                                <h4>
-                                    <strong>WordPress</strong>
-                                </h4>
-                                <p>WordPress with Sage, a starter theme</p>
-                                <a href="https://roots.io/sage/" class="btn btn-dark" target="_blank">Learn More</a>
+                                <h4><strong>Broad</strong></h4>
+                                <p>Pyscholinguistics, first and second language acquisition, cross-cultural psychology, cognitive science, experimental psychology, sociology, sociobiology, sociolinguistics, social psychology, etc.</p>
                                 
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="service-item">
-                                <i class="fab fab-github bt-4x"></i>
-                                <h4>
-                                    <strong>GitHub</strong>
-                                </h4>
-                                <p>Client repositories privately hosted on Github</p>
-                                <a href="https://github.com/" class="btn btn-dark" target="_blank">Learn More</i></a>
-                                
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6">
-                            <div class="service-item">
-                                <i class="fab fab-trello bt-4x"></i>
-                                <h4>
-                                    <strong>Trello</strong>
-                                </h4>
-                                <p>Trello boards organize multiple ongoing projects</p>
-                                <a href="https://trello.com/" class="btn btn-dark" target="_blank">Learn More</i></a>
-                                
-                            </div>
-                        </div>
-                    </div> -->
+                    </div>
                     <!-- /.row (nested) -->
-                <!-- </div> -->
+                </div>
                 <!-- /.col-lg-10 -->
-            <!-- </div> -->
+            </div>
             <!-- /.row -->
-        <!-- </div> -->
+            <div class="row text-center">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <h2>Research Summary (unpublished):</h2>
+                    <hr class="small border-coal">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="service-item">
+                                <h4><strong>Van Orman, D.S.J. (In preparation). ‘The effects of acute aerobic exercise on auditory/spoken language</strong></h4>
+                                <p>Learning of L2 English speaking Chinese university students learning L3 Russian’. This is a pilot experiment which provides evidence that word/phrasal and phonological acquisition of a foreign language is aided by exercise immediately prior to study for these participants. This experiment represents an original contribution to the psychology of language learning.</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="service-item">
+                                <h4><strong>Van Orman, D.S.J. (In preparation). ‘Assessing ‘learning’ across three communication mediums: A mixed methods approach’.</strong></h4>
+                                <p>This is based a three-part task set for three groups (N=30) that shows clear advantages for text based communications overall and face-to-face communications to a lesser extent over video-conferencing in each of the three experimental tasks concerning memory. The tasks were original and adapted to Chinese-English speaking university students; they were (1) a long-term memory task, (2) a semantic and implicit memory of grammatical structures task, as well as (3) a nonword repetition task examining working memory, and long-term memory.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.row (nested) -->
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
         <!-- /.container -->
     </section>
 
-    <section class="parallax-section bg-cameron-pull-chord">        
+    <section class="parallax-section bg-filter-creek">        
         <div class="text-vertical-center">
             <i class="btl bt-quote-right bt-3x"></i>
             <h3>"Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt."</h3>
