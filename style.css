@@ -222,7 +222,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     }
     .callout .btn-social:hover {
         background-color: #fff;
-        border-color: #444;
+        border-color: #333;
     }
 
     .img-thumbnail {
@@ -335,8 +335,8 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
                     height: 100%;
                 }
         .shrink {
-            background: #333;
-            border-bottom: 2px solid #666fff;
+            background: rgba(255,255,255,.8);
+            box-shadow: 0 5px 10px rgba(0,0,0,.2);
             height: 54px;
             -webkit-transition: 0.5s;
             -moz-transition: 0.5s;
