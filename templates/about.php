@@ -17,7 +17,7 @@
 				<div class="col-lg-7 col-sm-12">
 					<p class="lead">Dustin is devoted to a lifetime of deep learning, experiential living and love. Even as a kid, Dustin wanted to learn how the psycho-social self and the social world worked from all perspectives they could be learned from (impossible as it is). Therefore, for Dustin, learning language, culture, society, about the brain and the interplay between each of them became a lifelong mission that still drives him.</p>
 					<br />
-					<p class="lead"><a class="" href="#aboutModal" data-toggle="modal">Read More <i class="btl bt-circle-arrow-right bt-fw"></i></a></p>
+					<p class="lead"><a class="" href="#aboutModal" data-toggle="modal">Read More <i class="btl bt-circle-arrow-right bt-lg"></i></a></p>
 				</div>
 			</div>
 		</div>
