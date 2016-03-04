@@ -12,7 +12,7 @@
 			</div>
 			<div class="row">            
 				<div class="col-lg-5 col-sm-12">
-					<img class="mar-b-20 mar-t-20 img-center img-responsive img-thumbnail " src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/dvanorman-homepage.jpg" alt="Dustin Van Orman image" title="Dustin Van Orman" />
+					<img class="mar-b-20 img-center img-responsive img-thumbnail " src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/dvanorman-homepage.jpg" alt="Dustin Van Orman image" title="Dustin Van Orman" />
 				</div>
 				<div class="col-lg-7 col-sm-12">
 					<p class="lead">Dustin is devoted to a lifetime of deep learning, experiential living and love. Even as a kid, Dustin wanted to learn how the psycho-social self and the social world worked from all perspectives they could be learned from (impossible as it is). Therefore, for Dustin, learning language, culture, society, about the brain and the interplay between each of them became a lifelong mission that still drives him.</p>
