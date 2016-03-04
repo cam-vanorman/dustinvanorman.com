@@ -5,8 +5,8 @@
 					<div class="col-xs-12">
 						<ul class="list-inline">
 							<li><a class="btn-social btn-outline text-mild-blue" href="//www.linkedin.com/in/dustinvanorman" target="_blank"><i class="fab fab-linkedin-alt bt-fw"></i></a></li>
-							<!-- <li><a class="btn-social btn-outline" href="https://github.com/cam-vanorman" target="_blank"><i class="fab fab-github bt-fw"></i></a></li> -->
-							<!-- <li><a class="btn-social btn-outline" href="mailto:cameron.vanorman@gmail.com"><i class="btl bt-paper-plane bt-fw"></i></a></li> -->
+							<li><a href="//www.researchgate.net/profile/Dustin_Van_Orman" target="_blank"><img src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/RG_Logo.png" alt="Research Gate Logo" title="Research Gate" width="25"></a></li>
+                    		<li><a href="//ningbo.academia.edu/DustinVanOrman" target="_blank"><img src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/academia-logo-redesign-2015.svg" width="100"></i></a></li>
 							<!-- <li><a class="btn-social btn-outline" href="https://open.spotify.com/user/1238806903" target="_blank"><i class="fab fab-spotify bt-fw"></i></a></li> -->
 						</ul>
 						<!-- <hr class="small"> -->
