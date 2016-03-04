@@ -8,4 +8,4 @@
 
 	<?php get_template_part('templates/about'); ?>
 	
-	<?php get_template_part('templates/call-to-action'); ?>
+	<?php get_template_part('templates/services'); ?>
