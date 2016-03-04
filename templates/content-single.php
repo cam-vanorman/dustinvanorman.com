@@ -5,7 +5,7 @@
 				<div class="row">
 					<h1 class="text-center entry-title"><?php the_title(); ?></h1><hr class="small">
 					<?php 
-						the_date('Y-m-d', '<h4 class="text-center">', '</h4>');
+						the_date('D, M, Y', '<h4 class="text-center">', '</h4>');
 					?>
 				</div>
 			</div>
@@ -21,10 +21,12 @@
 					</div>
 				</div>
 			</div>
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-10 col-lg-offset-1">
-						<?php the_content(); ?>
+			<div class="mar-t-20">	
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-10 col-lg-offset-1">
+							<?php the_content(); ?>
+						</div>
 					</div>
 				</div>
 			</div>
