@@ -611,7 +611,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         .bg-desk-lamp,
         .bg-drawing-man {
             background-image: none;
-            background-color: #444;
+            background-color: #777;
         }
         .navbar .nav {
             margin: 0px -15px 0;
