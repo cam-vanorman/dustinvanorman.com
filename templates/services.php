@@ -83,7 +83,7 @@
     <section class="parallax-section bg-filter-creek">        
         <div class="text-vertical-center">
             <i class="btl bt-quote-right bt-3x"></i>
-            <h3>"Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt."</h3>
-            <h4>— William Shakespeare</h4>
+            <h3>"Rather than love, than money, than fame, give me truth."</h3>
+            <h4>— Henry David Thoreau</h4>
         </div>
     </section>
