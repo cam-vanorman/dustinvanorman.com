@@ -19,6 +19,9 @@ body {
     font-size: 16px;
     position: relative;
 }
+a {
+    color: #666fff;
+}
 a:hover {
     text-decoration: none;
 }
@@ -298,7 +301,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
             display: none;
         }
             .navbar-toggle {
-                color: #ffffff;
+                color: #fff;
                 text-shadow: none;
                 padding: 4px 8px;
                 border-radius: 0;
@@ -316,7 +319,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         .navbar-custom.top-nav-collapse {
             padding: 0;
             border-bottom: 1px solid rgba(255,255,255,.3);
-            background: #000;
+            background: #444;
         }       
             .navbar-brand {
                 height: 65px;
@@ -332,7 +335,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
                 }
         .shrink {
             background: #333;
-            border-bottom: 2px solid #66BBFF;
+            border-bottom: 2px solid #666fff;
             height: 54px;
             -webkit-transition: 0.5s;
             -moz-transition: 0.5s;
@@ -359,7 +362,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         .shrink .nav>li>a:focus,
         .shrink .nav>li>a:hover,
         .shrink .nav>li.active {
-            background-color: #66BBFF;
+            background-color: #666fff;
              -webkit-transition: 0.5s;
                 -moz-transition: 0.5s;
                 -ms-transition: 0.5s;
