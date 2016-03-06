@@ -335,6 +335,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
                     height: 100%;
                 }
         .shrink {
+            color: #444;
             background: rgba(255,255,255,.8);
             box-shadow: 0 5px 10px rgba(0,0,0,.2);
             height: 54px;
@@ -363,6 +364,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         .shrink .nav>li>a:focus,
         .shrink .nav>li>a:hover,
         .shrink .nav>li.active {
+            color: #fff;
             background-color: ##444;
              -webkit-transition: 0.5s;
                 -moz-transition: 0.5s;
