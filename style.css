@@ -157,7 +157,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         background: url(dist/images/drawing_man.jpg) no-repeat 50% 0 fixed;
     }
     .bg-chinese-lantern {
-        background: url('/dist/images/chinese_lantern.jpg') no-repeat 50% 0 fixed;
+        background: url(dist/images/chinese_lantern.jpg) no-repeat 50% 0 fixed;
     }
 
     .btn {
