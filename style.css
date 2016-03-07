@@ -363,6 +363,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         }
         .shrink .navbar-toggle {
             margin-top: 3px;
+            color: #444;
         }
         .shrink .navbar-brand {
             height: 50px;
