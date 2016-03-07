@@ -316,6 +316,10 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
                 background: transparent;
             }
 
+        .shrink .nav>li>a {
+            color: #444;
+        }
+
 
         .navbar-custom.top-nav-collapse {
             padding: 0;
