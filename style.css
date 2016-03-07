@@ -310,7 +310,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
             }
             .nav>li>a {
                 transition: all .3s ease-in-out;
-                color: #fff;
+                color: #444;
             }
             .nav>li>a:focus, .nav>li>a:hover {
                 background: transparent;
