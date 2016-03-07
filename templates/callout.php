@@ -16,7 +16,7 @@
                     <li><a href="//www.linkedin.com/in/dustinvanorman" target="_blank"><i class="text-coal fab fab-linkedin-alt bt-lg"></i></a></li>
                     <li><a href="//www.researchgate.net/profile/Dustin_Van_Orman" target="_blank"><img src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/RG_Logo.png" alt="Research Gate Logo" title="Research Gate" width="25"></a></li>
                     <li><a href="//ningbo.academia.edu/DustinVanOrman" target="_blank"><img src="<?= esc_url(get_template_directory_uri('/')); ?>/dist/images/academia-logo-redesign-2015.svg" width="100"></i></a></li>
-                    <!-- <li><a href="https://open.spotify.com/user/1238806903" class="btn-social btn-outline" target="_blank"><i class="text-light-green fab fab-spotify bt-fw"></i></a></li> -->
+                    <li><a href="//chroniclevitae.com/people/395319-dustin-van-orman/profile" target="_blank"><i class="text-coal fab fab-link bt-lg"></i></a></li>
                 </ul>
             </div>
         </div>

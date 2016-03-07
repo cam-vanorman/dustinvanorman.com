@@ -10,12 +10,12 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<h2>Interested in working together?</h2>
-					<a href="/resume" class="btn-social btn-outline" rel="nofollow" data-toggle="tooltip" data-placement="bottom" title="View my Resume"><i class="btl bt-link bt-fw"></i></a>
+					<a href="/wp-content/uploads/2016/03/Dustin_Van_Orman_CV_2.pdf" class="btn-social btn-outline" rel="nofollow" data-toggle="tooltip" data-placement="bottom" title="View my Resume"><i class="btl bt-link bt-fw"></i></a>
 				</div>
 			</div>
 		</div>
 	</section>
-	<section class="parallax-section bg-cameron-parachuting">
+	<section class="parallax-section bg-chinese-lantern">
 		<div class="text-vertical-center">
 			<i class="btl bt-quote-right bt-3x"></i>
 			<hr class="small">
