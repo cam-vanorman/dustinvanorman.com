@@ -143,6 +143,9 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     }
     .bg-filter-creek {
         background: url(dist/images/filter_creek.jpeg) no-repeat 50% 0;
+        height: 500px;
+        width: 100%;
+
     }
     .bg-filter-diner {
         background: url(dist/images/filter_diner.jpg) no-repeat 50% 0 fixed;
@@ -259,7 +262,8 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         font-weight: 300;
     }
         .parallax-section .text-vertical-center,
-        .callout .text-vertical-center {
+        .callout .text-vertical-center,
+        .bg-filter-creek {
             background-color: rgba(0,0,0,.2);
         }
         .callout .text-vertical-center {
@@ -391,15 +395,26 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         display: table;
         position: relative;
     }
-    .parallax-section h1, .parallax-section h2, 
-        .parallax-section h3, .parallax-section h4, 
-        .parallax-section p, .parallax-section hr, 
-        .parallax-section blockquote, .parallax-section i {
-            text-shadow: 1px 1px 2px #444;
-            font-weight: 300;
-            opacity: 1;
-            color: #fff;
-        }
+    .parallax-section h1,
+    .parallax-section h2, 
+    .parallax-section h3,
+    .parallax-section h4, 
+    .parallax-section p,
+    .parallax-section hr, 
+    .parallax-section blockquote,
+    .parallax-section i,
+    .bg-filter-creek h1,
+    .bg-filter-creek h2,
+    .bg-filter-creek h3,
+    .bg-filter-creek h4,
+    .bg-filter-creek p,
+    .bg-filter-creek hr,
+    .bg-filter-creek blockquote {
+        text-shadow: 1px 1px 2px #444;
+        font-weight: 300;
+        opacity: 1;
+        color: #fff;
+    }
 
     .modal-body .btn-social {
         border-color: #000;
@@ -424,19 +439,24 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         background-size: cover;
         -o-background-size: cover;
     } 
-      .callout h2 {
+    .callout h2 {
         margin-top: 15%;
-      }
-        .callout h1, .callout h2, 
-        .callout h3, .callout h4, 
-        .callout p, .callout hr {
-            text-shadow: 1px 1px 2px #444;
-            font-weight: 300;
-            opacity: 1;
-        }
+    }
+    .callout h1, .callout h2, 
+    .callout h3, .callout h4, 
+    .callout p, .callout hr {
+        text-shadow: 1px 1px 2px #444;
+        font-weight: 300;
+        opacity: 1;
+    }
 
     /* Add padding to sections */
-    .about, .call-to-action, .portfolio, .services, .research {
+    .about,
+    .call-to-action,
+    .portfolio,
+    .services,
+    .research,
+    .bg-filter-creek {
         padding: 70px 0;
     }
     .portfolio {
