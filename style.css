@@ -142,7 +142,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         background: url(dist/images/misty_trees.jpeg) no-repeat 50% 0 fixed;
     }
     .bg-filter-creek {
-        background: url(dist/images/filter_creek.jpeg) no-repeat 50% 0 fixed;
+        background: url(dist/images/filter_creek.jpeg) no-repeat 50% 0;
     }
     .bg-filter-diner {
         background: url(dist/images/filter_diner.jpg) no-repeat 50% 0 fixed;
