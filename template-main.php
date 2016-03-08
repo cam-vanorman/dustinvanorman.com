@@ -10,4 +10,8 @@
 	
 	<?php get_template_part('templates/services'); ?>
 
+	<?php get_template_part('templates/portfolio'); ?>
+
+	<?php get_template_part('templates/blog'); ?>
+
 	<?php get_template_part('templates/call-to-action'); ?>
