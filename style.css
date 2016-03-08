@@ -481,7 +481,6 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         right: 0;
         margin: 0;
         padding: 0;
-        background-color: #444;
     }
     #portfolio .portfolio-item .portfolio-link {
         display: block;
@@ -505,7 +504,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         transition: all ease .5s;
     }
     #portfolio .portfolio-item .portfolio-link .caption:hover {
-        background: rgba(68,68,68,.75);        
+        background: rgba(68,68,68,.75);
         opacity: 1;
     }
     #portfolio .portfolio-item .portfolio-link .caption .caption-content {
