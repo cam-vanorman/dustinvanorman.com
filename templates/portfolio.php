@@ -5,7 +5,7 @@
 ?>
 
 	<!-- Portfolio Grid Section -->
-	<section id="portfolio" class="container-fluid portfolio bg-mild-blue">
+	<section id="portfolio" class="container-fluid portfolio bg-egg-white">
 		<div class="row">
 			<div class="col-lg-12 text-center">
 				<h2>Research Summary (unpublished):</h2>
