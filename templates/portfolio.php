@@ -24,7 +24,7 @@
 				</a>
 			</div>
 			<div class="col-sm-6 portfolio-item">
-				<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal1">
+				<a href="#portfolioModal2" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal2">
 					<div class="caption">
 						<div class="caption-content">
 							<p class="lead">Assessing 'learning' across three communication mediums: A mixed methods approach</p>
@@ -35,7 +35,7 @@
 		</div>
 		<div class="row items">
 			<div class="col-sm-6 portfolio-item">
-				<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal1">
+				<a href="#portfolioModal3" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal3">
 					<div class="caption">
 						<div class="caption-content">
 							<p class="lead">A sociolinguistic review of language attitude research in four Chinese cities</p>
@@ -45,7 +45,7 @@
 			</div>
 
 			<div class="col-sm-6 portfolio-item">
-				<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal1">
+				<a href="#portfolioModal4" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal4">
 					<div class="caption">
 						<div class="caption-content">
 							<p class="lead">A case study assessing a Chinese high school's students' perceptions of linguistic, acculturative, psychological and sociocultural issues when studying abroad in the United States.</p>
