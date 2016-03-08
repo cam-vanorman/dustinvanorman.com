@@ -340,7 +340,6 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
             background: #444;
         }       
             .navbar-brand {
-                height: 65px;
                 padding: 5px;
 
                 -webkit-transition: 0.5s;
