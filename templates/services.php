@@ -33,12 +33,14 @@
         </div>
     </section>
     <section class="parallax-section bg-chinese-lantern">
-        <div class="text-vertical-center">
-            <i class="btl bt-quote-right bt-3x"></i>
-            <hr class="small">
-            <h3>"I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours."</h3>
-            <h4>— Henry David Thoreau</h4>
-            <!-- <h3>"I am not a genius. I am just a tremendous bundle of experience."</h3>
-            <h4>— R. Buckminster Fuller</h4> -->
+        <div class="row">
+            <div class="col-md-offset-1 col-md-10">
+                <div class="text-vertical-center">
+                    <i class="btl bt-quote-right bt-3x"></i>
+                    <hr class="small">
+                    <h3>"I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours."</h3>
+                    <h4>— Henry David Thoreau</h4>
+                </div>
+            </div>
         </div>
     </section>
