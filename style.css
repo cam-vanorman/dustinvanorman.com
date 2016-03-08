@@ -410,7 +410,8 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     .bg-filter-creek h4,
     .bg-filter-creek p,
     .bg-filter-creek hr,
-    .bg-filter-creek blockquote {
+    .bg-filter-creek blockquote,
+    .bg-filter-creek i {
         text-shadow: 1px 1px 2px #444;
         font-weight: 300;
         opacity: 1;
