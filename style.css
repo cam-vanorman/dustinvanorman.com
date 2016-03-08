@@ -318,6 +318,9 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         .navbar-custom .nav>li>a {
             color: #fff;
         }
+        .shrink.navbar-custom .nav>li>a {
+            color: #444;
+        }
         body.dashboard-concept .navbar-custom {
             display: none;
         }
