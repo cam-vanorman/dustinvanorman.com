@@ -72,7 +72,9 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     .text-mild-blue {
         color: #1a99ff;
     }
-
+    [class*="bg-"] {
+        padding: 70px 0;
+    }
     .bg-coal {
         background-color: #444;
         color: #fff;
@@ -86,6 +88,10 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     .bg-mild-blue {
         background-color: #1a99ff;
         color: #f6f6f6;
+        hr {
+            background: #fff;
+            border-color: #fff; 
+        }
     }
     .bg-ice-blue {
         background-color: #666fff;
@@ -492,14 +498,14 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         position: absolute;
         width: 100%;
         height: 100%;
-        opacity: 0;
-        background: rgba(68,68,68,.75);
+        opacity: .75;
 
         -webkit-transition: all ease .5s;
         -moz-transition: all ease .5s;
         transition: all ease .5s;
     }
     #portfolio .portfolio-item .portfolio-link .caption:hover {
+        background: rgba(68,68,68,.75);        
         opacity: 1;
     }
     #portfolio .portfolio-item .portfolio-link .caption .caption-content {
