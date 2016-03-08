@@ -72,9 +72,7 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     .text-mild-blue {
         color: #1a99ff;
     }
-    [class*="bg-"] {
-        padding: 70px 0;
-    }
+
     .bg-coal {
         background-color: #444;
         color: #fff;
@@ -88,10 +86,12 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
     .bg-mild-blue {
         background-color: #1a99ff;
         color: #f6f6f6;
-        hr {
-            background: #fff;
-            border-color: #fff; 
-        }
+        padding: 50px 0; 
+    }
+
+    hr {
+        background: #fff;
+        border-color: #fff; 
     }
     .bg-ice-blue {
         background-color: #666fff;
