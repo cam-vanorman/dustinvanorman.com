@@ -86,7 +86,7 @@
         <!-- /.container -->
     </section>
 
-    <section class="parallax-section bg-filter-creek">        
+    <section class="bg-filter-creek">        
         <div class="container text-vertical-center">
             <div class="row">
                 <div class="col-md-12">
