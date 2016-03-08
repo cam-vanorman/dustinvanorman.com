@@ -18,7 +18,7 @@
 				<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal1">
 					<div class="caption">
 						<div class="caption-content">
-							<p class="lead">The effects of high impact aerobic exercise on auditory/spoken language</p>
+							<p class="lead">The effects of high-impact aerobic exercise on auditory/spoken language</p>
 						</div>
 					</div>
 				</a>
@@ -68,7 +68,7 @@
 				<div class="row">
 					<div class="col-lg-10 col-lg-offset-1">
 						<div class="modal-body" role="document">
-							<h2>The effects of acute aerobic exercise on auditory/spoken language</h2>
+							<h2>The effects of high-impact aerobic exercise on auditory/spoken language</h2>
 							<hr class="small">
                             
                             <h4><strong>Authored by:</strong> Van Orman, D.S.J. (In preparation).</h4>
