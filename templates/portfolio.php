@@ -18,7 +18,7 @@
 				<a href="#portfolioModal1" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal1">
 					<div class="caption">
 						<div class="caption-content">
-							<p class="lead">The effects of acute aerobic exercise on auditory/spoken language</p>
+							<p class="lead">The effects of high impact aerobic exercise on auditory/spoken language</p>
 						</div>
 					</div>
 				</a>
