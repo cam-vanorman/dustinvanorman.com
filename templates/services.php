@@ -33,9 +33,9 @@
         </div>
     </section>
     <section class="parallax-section bg-chinese-lantern">
-        <div class="row">
-            <div class="text-vertical-center">
-                <div class="col-md-offset-1 col-md-10">
+        <div class="text-vertical-center">
+            <div class="container">
+                <div class="row">
                     <i class="btl bt-quote-right bt-3x"></i>
                     <hr class="small">
                     <h3>"I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours."</h3>
