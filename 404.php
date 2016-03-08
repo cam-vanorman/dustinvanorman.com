@@ -1,5 +1,6 @@
-<?php get_template_part('templates/head'); ?>
-<?php get_template_part('templates/page', 'header'); ?>
+<html>
+	<?php get_template_part('templates/head'); ?>
+
 	<body <?php body_class(); ?>>
 	<!--[if lt IE 9]>
 		<div class="alert alert-warning">
@@ -20,10 +21,6 @@
 			</div>
 			
 		</main>
-		<?php
-			get_template_part('templates/footer');
-			wp_footer();
-		?>
 	</body>
 </html>
 
