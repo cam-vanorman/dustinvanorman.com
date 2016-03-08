@@ -310,13 +310,14 @@ header h3, header h4, section h4, section h2, .copyright-2015 p, div.modal h2 {
         }
         .navbar-custom {
             height: 72px;
-            color: #fff;
 
             -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
             -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
             transition: background .5s ease-in-out,padding .5s ease-in-out;
         }
-
+        .navbar-custom .nav>li>a {
+            color: #fff;
+        }
         body.dashboard-concept .navbar-custom {
             display: none;
         }
