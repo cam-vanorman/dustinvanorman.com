@@ -10,20 +10,22 @@ $args = array( 'posts_per_page' => 3 );
 
 // Variable to call WP_Query.
 $the_query = new WP_Query( $args );
-
-if ( $the_query->have_posts() ) : ?>
+?>
 
 <!-- Blog posts -->
 <section id="blog" class="blog bg-egg-white">
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-12 text-center">
-				<h2>Recent Articles</h2>
-				<hr class="small border-coal">
-			</div>
+
+<?php
+if ( $the_query->have_posts() ) : ?>
+	<div class="row">
+		<div class="col-lg-12 text-center">
+			<h2>Recent Articles</h2>
+			<hr class="small border-coal">
 		</div>
-		<div class="row items">
-		
+	</div>
+	<div class="row items">
+	
 		<?php
 		// Start the Loop
 		while ( $the_query->have_posts() ) : $the_query->the_post(); ?>
@@ -39,16 +41,11 @@ if ( $the_query->have_posts() ) : ?>
 		endwhile; // End the Loop 
 		?>
 
-		</div> <!-- ./ row items -->
+	</div> <!-- ./ row items -->
 		
 	<?php else:
 		// If no posts match this query, output this text.
-		_e( '<div class="row"><div class="text-vertical-center">
-            <i class="btl bt-quote-right bt-3x"></i>
-            <hr class="small">
-            <h3>"The good writer seems to be writing about himself, but has his eye always on that thread of the Universe which runs through himself and all things."</h3>
-            <h4>— Ralph Waldo Emerson</h4>
-   			</div></div>', 'dustinvanorman.com' );
+		_e( '', 'dustinvanorman.com' );
 	endif;
 	wp_reset_postdata();	 
 ?>
