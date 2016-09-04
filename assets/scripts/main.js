@@ -14,7 +14,7 @@
  * remove or comment out: add_theme_support('jquery-cdn');
  * ======================================================================== */
 
-var BROKE = {
+var DUSTIN = {
 	/**
 	 * Accordion
 	 * Hide/Show Panels
@@ -84,14 +84,14 @@ var BROKE = {
 		'common': {
 			init: function() {
 				// JavaScript to be fired on all pages
-				BROKE.accordion('.broke-2015 .panel-heading');
+				DUSTIN.accordion('.DUSTIN-2015 .panel-heading');
 				// Bootstrap Tooltip Init
-				BROKE.tooltip('[data-toggle="tooltip"]');
-				// BROKE.modal('[data-toggle="modal"]');
+				DUSTIN.tooltip('[data-toggle="tooltip"]');
+				// DUSTIN.modal('[data-toggle="modal"]');
 
 				// localScroll init
-				BROKE.localScroll('#main-navigation');
-				BROKE.parallax();
+				DUSTIN.localScroll('#main-navigation');
+				DUSTIN.parallax();
 
 			},
 			finalize: function() {
@@ -127,7 +127,7 @@ var BROKE = {
 		'dashboard_concept': {
 			init: function() {
 				// Javascript to be fired on the dashboard concept page
-				BROKE.accordion('.broke-2015 .panel-heading');
+				DUSTIN.accordion('.DUSTIN-2015 .panel-heading');
 				
 			}
 		}
